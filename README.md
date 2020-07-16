@@ -17,5 +17,5 @@ I am very enthusistic about deep learning, human brain and the cognitive senses 
 ## Let's Connect
 
 <!--![Linked In Logo](/images/linkedin.png =100x100) -->
-<img src="/images/linkedin.png" alt="drawing" width="100" height="100"/> [Linked In](https://www.linkedin.com/in/um07/)
+<img src="/images/linkedin.png" alt="drawing" width="20" height="20"/> [Linked In](https://www.linkedin.com/in/um07/)
 
