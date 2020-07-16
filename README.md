@@ -10,12 +10,11 @@ I am very enthusistic about deep learning, human brain and the cognitive senses 
 - 🌱 I’m currently learning **Deep Learning** and Explorating new domains and unknow horizons. 
 - 👯 I’m looking to collaborate on **Open Sourceed ML/ DL Projects**
 - 💬 Ask me anything.
-- 📫 How to reach me: **Is given below......**
+- 📫 How to reach me: **It's given below......**
 - 😄 Pronouns: **Researcher**, **Enthusiast**, **Ingenious**
 
 
 ## Let's Connect
 
-<!--![Linked In Logo](/images/linkedin.png =100x100) -->
-<img src="/images/linkedin.png" alt="drawing" width="20" height="20"/> [Linked In](https://www.linkedin.com/in/um07/)
+<img src="/images/linkedin.png" alt="logo" width="18" height="18"/> [Linked In](https://www.linkedin.com/in/um07/) &emsp; <img src="/images/gmail.png" alt="logo" width="18" height="18"/> [Gmail](utkarsh.um07@gmail.com) &emsp; <img src="/images/twitter.png" alt="logo" width="18" height="18"/> [Twitter](https://twitter.com/Utkarsh10016500)
 
