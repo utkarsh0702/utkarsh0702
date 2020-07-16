@@ -16,5 +16,7 @@ I am very enthusistic about deep learning, human brain and the cognitive senses 
 
 ## Let's Connect
 
-<img src="/images/linkedin.png" alt="logo" width="18" height="18"/> [Linked In](https://www.linkedin.com/in/um07/) &emsp; <img src="/images/gmail.png" alt="logo" width="18" height="18"/> [Gmail](utkarsh.um07@gmail.com) &emsp; <img src="/images/twitter.png" alt="logo" width="18" height="18"/> [Twitter](https://twitter.com/Utkarsh10016500)
+<img src="https://github.com/utkarsh0702/utkarsh0702/blob/master/images/linkedin.png" width="18" height="18"/> [Linked In](https://www.linkedin.com/in/um07/) &emsp; 
+<img src="https://github.com/utkarsh0702/utkarsh0702/blob/master/images/gmail.png" alt="logo" width="18" height="18"/> [Gmail](utkarsh.um07@gmail.com) &emsp; 
+<img src="https://github.com/utkarsh0702/utkarsh0702/blob/master/images/twitter.png" alt="logo" width="18" height="18"/> [Twitter](https://twitter.com/Utkarsh10016500)
 
