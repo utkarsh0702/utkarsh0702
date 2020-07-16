@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**utkarsh0702/utkarsh0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Utkarsh Mishra**, a final year undergraduate from UCET, Bikaner pursing my Bachelors degree in Computer Science and Engineering.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am very enthusistic about deep learning, human brain and the cognitive senses and aspirng to become a Machine Learning Engineer.
+
+- 🔭 I’m currently a Learner and an Enthusiast
+- 🌱 I’m currently learning **Deep Learning** and Explorating new domains and unknow horizons. 
+- 👯 I’m looking to collaborate on **Open Sourceed ML/ DL Projects**
+- 💬 Ask me anything.
+- 📫 How to reach me: **Is given below......**
+- 😄 Pronouns: **Researcher**, **Enthusiast**, **Ingenious**
+
+
+## Let's Connect
+
+
+
