@@ -1,4 +1,4 @@
-### Hi everyone <img src="/images/source.gif" width="20" height="20" />
+### Hi everyone <img src="/images/source.gif" width="40" height="40" />
 
 I am **Utkarsh Mishra**, a final year undergraduate from UCET, Bikaner pursing my Bachelors degree in Computer Science and Engineering.
 
