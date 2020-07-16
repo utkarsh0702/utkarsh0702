@@ -16,5 +16,5 @@ I am very enthusistic about deep learning, human brain and the cognitive senses 
 
 ## Let's Connect
 
-
+![Linked In Logo](/images/linkedin.png) [Linked In](https://www.linkedin.com/in/um07/)
 
