@@ -16,7 +16,12 @@ I am very enthusistic about deep learning, human brain and the cognitive senses:
 
 ## Let's Connect
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/um07/)](https://www.linkedin.com/in/um07/)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=plastic&logo=twitter&logoColor=blue&link=https://twitter.com/Utkarsh10016500)](https://twitter.com/Utkarsh10016500)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/um07/)](https://www.linkedin.com/in/um07/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Utkarsh10016500)](https://twitter.com/Utkarsh10016500)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=plastic&logo=whatsapp&logoColor=white&link=https://wa.me/7023566112)](https://wa.me/7023566112)
 ![Gmail Utkarsh](https://img.shields.io/badge/Email%20Id-utkarsh.um07%40gmail.com-red?style=plastic&logo=gmail&logoColor=red)
 [![GitHub Utkarsh](https://img.shields.io/github/followers/utkarsh0702?label=follow&style=social)](https://github.com/utkarsh0702)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh0702&layout=compact)](https://github.com/utkarsh0702/github-readme-stats)
+
+[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=utkarsh0702&show_icons=true&theme=radical&hide=issues)](https://github.com/utkarsh0702/github-readme-stats)
