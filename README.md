@@ -7,7 +7,7 @@ I am **Utkarsh Mishra**,:grinning: a final year undergraduate from UCET, Bikaner
 I am very enthusistic about deep learning, human brain and the cognitive senses:sweat_smile: and aspirng to become a Machine Learning Engineer.
 
 - 🔭 I’m currently a Learner and an Enthusiast
-- 🌱 I’m currently learning **Deep Learning** and Explorating new domains and unknow horizons. 
+- 🌱 I’m currently learning **Deep Learning** and **Flutter** and Explorating new domains and unknow horizons. 
 - 👯 I’m looking to collaborate on **Open Sourceed ML/ DL Projects**
 - 💬 Ask me anything.
 - 📫 How to reach me: **It's given below......**
