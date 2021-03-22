@@ -11,7 +11,7 @@ I am very enthusistic about deep learning, human brain and the cognitive senses:
 - 👯 I’m looking to collaborate on **Open Sourceed ML/ DL Projects**
 - 💬 Ask me anything.
 - 📫 How to reach me: **It's given below......**
-- 😄 Pronouns: **Researcher**, **Enthusiast**, **Ingenious**
+- 😄 Pronouns: **He/ Him**
 
 
 ## Let's Connect
