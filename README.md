@@ -22,6 +22,8 @@ I am very enthusistic about deep learning, human brain and the cognitive senses:
 ![Gmail Utkarsh](https://img.shields.io/badge/Email%20Id-utkarsh.um07%40gmail.com-red?style=plastic&logo=gmail&logoColor=red)
 [![GitHub Utkarsh](https://img.shields.io/github/followers/utkarsh0702?label=follow&style=social)](https://github.com/utkarsh0702)
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=utkarsh0702 alt=utkarsh0702/></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh0702&theme=dark&layout=compact)](https://github.com/utkarsh0702/github-readme-stats)
 
 [![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=utkarsh0702&show_icons=true&theme=radical&hide=issues)](https://github.com/utkarsh0702/github-readme-stats)
