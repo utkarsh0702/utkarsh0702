@@ -1,6 +1,6 @@
 <img src="https://github.com/utkarsh0702/utkarsh0702/blob/master/assets/hello.gif" width="190" height="200" />
 
-I am **Utkarsh Mishra**,:grinning: a final year undergraduate from UCET, Bikaner pursing my Bachelors degree in Computer Science and Engineering.
+I am **Utkarsh Mishra**,:grinning: a graduate and an Machine Learning Developer.
 
 ## About Me
 
